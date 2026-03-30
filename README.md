@@ -8,4 +8,4 @@ Este proyecto realiza una minería de datos sobre el dataset público de la FDIC
 
 ## Hallazgos Clave
 - Se utilizó **Escala Logarítmica** para comparar estados con alta disparidad financiera (NY vs. estados rurales).
-- El análisis segmentado muestra una consolidación de capital post-crisis 2008.
+- El análisis segmentado muestra una consolidación de capital al rededor del año 2008.
