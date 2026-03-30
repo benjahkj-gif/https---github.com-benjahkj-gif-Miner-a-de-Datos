@@ -1,0 +1,6 @@
+google-cloud-bigquery
+Python version: 3.13
+pandas
+matplotlib
+seaborn
+db-dtypes
